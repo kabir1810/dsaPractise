@@ -20,4 +20,6 @@ int main(){
   int minimum = smallestelement(arr1[],n);
   cout<<"minimum number in the array is "<< minimum <<endl;
 
+  cout<<"enter the array"<<endl;
+
 }
